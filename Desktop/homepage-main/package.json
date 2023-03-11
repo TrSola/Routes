@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "eslint": "^8.35.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  },
+  "dependencies": {
+    "@sweetalert2/themes": "^5.0.15",
+    "sweetalert2": "^11.7.3"
+  }
+}
